@@ -12,5 +12,7 @@ Requirements:
 Following modules need to be installed for it to work properly:
 
 OpenCV
+
 Mediapipe
+
 Autopy
